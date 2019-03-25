@@ -1,0 +1,7 @@
+[package]
+name = "cosv"
+version = "0.1.0"
+authors = ["honda.j <honda.jun@bpsinc.jp>"]
+edition = "2018"
+
+[dependencies]

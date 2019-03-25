@@ -5,3 +5,5 @@ authors = ["honda.j <honda.jun@bpsinc.jp>"]
 edition = "2018"
 
 [dependencies]
+csv = "1.0.5"
+colored = "1.7.0"

@@ -1,0 +1,2 @@
+# cosv
+`cosv` colorize CSV.
